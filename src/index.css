@@ -1,0 +1,13 @@
+body{
+    /* background-image: url(../public/abstract-falling-lines-blue-background_78370-629.avif);
+    background-position: center;
+    background-size: cover; */
+    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+}
+.navbar img{
+    height: 40px;
+    padding: 5px;
+}
+.navbar {
+    height: 60px;
+}
